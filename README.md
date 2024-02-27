@@ -1,4 +1,4 @@
-# Visual-WiFi-Analyzer
+# Large-scale-Visual-WiFi-Analyzer
 
 ### 1. Description
 

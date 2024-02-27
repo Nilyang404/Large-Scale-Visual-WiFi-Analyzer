@@ -3,6 +3,7 @@
 ### 1. Description
 
 A Solution for collecting and analyzing WiFi signals in large public areas. Suitable for public areas such as shopping malls, schools, gymnasiums, etc.
+
 ![heatmap](https://github.com/Nilyang404/Visual-WiFi-Analyzer/assets/63556313/65564109-f325-4c9a-94cb-c505fa4304fd)
 
 By data collecting processing, visualization and analysis, we are able to  identify areas with weak signals on the campus and design the solutions to solve the problem of weak signals.

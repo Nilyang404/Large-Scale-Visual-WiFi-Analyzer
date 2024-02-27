@@ -1,0 +1,2 @@
+,time,os,network interface,gps latitude,gps longitude,gps accuracy (meters),ssid,bssid,wi-fi standard,frequency,network channel,channel width (in mhz),rssi (in dbm),noise level (in dbm),public ip address,network delay (in ms)
+0,1697173963,Windows 10,Intel(R) Wireless-AC 9560 160MHz,-1,-1,-1,UNSW,54:78:1a:bf:7e:2c,802.11n,5 GHz,48,40,-87,,,
